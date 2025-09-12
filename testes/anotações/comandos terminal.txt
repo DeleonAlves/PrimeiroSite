@@ -1,0 +1,48 @@
+comandos terminal
+
+
+- Transitar entre pastas:
+
+    comando: cd "nome da pasta"
+
+* Para à uma pasta de nível superior:
+
+    comando: cd ..
+
+- Visualizar conteúdo pasta:
+
+   comando: dir
+
+- Adicionar pasta terminal:
+
+    comando: mkdir "nome da pasta"
+
+- Remover pasta terminal:
+
+    Comando: rmdir "nome da pasta"
+
+- Copiar arquivo para outra pasta:
+    
+    comando: copy "nome da arquivo" "nome pasta destino"
+
+- Apagar aqrquivos:
+
+    comando: del "nome do arquivo"
+
+- Mover arquivo:
+
+    comando: move "nome do arquivo"
+
+*caso arquivo precise ser movido para uma pasta de nível superior
+usa o ".."
+
+    comando: move "nome do arquivo" ".."
+
+* para mover pasta para outro endereço usa o comando com o caminho completo:
+
+  comando: move "nome do arquivo" "C:\Users\dedi1\OneDrive\Área de Trabalho"
+
+- Renomear arquivo:
+
+  comando: ren "nome do arquivo" "nome do novo arquivo"
+

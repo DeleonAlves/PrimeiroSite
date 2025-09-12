@@ -1,0 +1,14 @@
+CLI
+
+O que é?
+
+Command Line Interface ( Interface de linha de comando).
+
+Forma de comunicar diretamente com o sistema, servidor, através de uma linha de comando realizado por texto.
+
+Usado para criar pastas, navegar entre elas e fazer varias manipulações. Visualizar banco de dados.
+
+Exemplo TERMINAL.
+
+Dentro do "uindous" é através do prompt de comando.
+Também tem o uso direto através do VSCode.

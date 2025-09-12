@@ -1,0 +1,9 @@
+IDE
+
+O que é?
+
+Integrated Development Environment (Ambiente integrado de desenvolvimento).
+
+Ferramenta uasada para escrever, testar e depurar o código. Usada para maior parte da criação do código. Com editor de código, um compilador para interpretar o código, uma ferramenta de depuração para avaliar se existe possíveis erros e com sistema de gerenciamento de projetos.
+
+Exemplo VSCode (Virtual Studio Code)

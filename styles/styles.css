@@ -1,0 +1,96 @@
+/* primeiro arquivo css */
+
+body {
+     line-height: normal;
+    color: #3b3838;
+    background: #b2cad4;
+    background: linear-gradient(141deg, rgba(178, 202, 212, 1) 0%, rgba(104, 125, 110, 0.7) 50%, rgba(79, 186, 224, 1) 100%);
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0px;
+    max-width: 100vw;
+}
+
+.container {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto 10 auto 10px;
+}
+
+.profile {    
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+.profile__header img {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 1cm;
+    margin-bottom: 20px;
+}
+
+.profile__header, .profile__about {
+    text-align: center;
+}
+
+.profile__header h2 {
+    font-weight: 400;
+}
+
+.profile__header h1, .profile__header h2 {
+    margin: 0px;
+}
+
+div.profile__about {  
+    justify-content: center;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+div.links {
+    margin: 0;
+}
+
+.links ul {
+    list-style: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.links a {
+    display: flex;
+    height: 50px;
+    text-decoration: none;
+    border: solid #444 1px;
+    border-radius: 35px;
+    padding: 0 24px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    color: #444;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.links a:hover {
+    border: #fff;
+    color: #706b6b;
+    height: 51px;
+    margin-bottom: 11px;   
+}
+
+.links__item {
+    width: 100%;
+    text-align: center;
+}
+
+@media screen and (max-width: 720px){
+    .profile__about {
+        font-size: 22px;
+        color: #fff;
+    }
+}
