@@ -1,2 +1,2 @@
-# meu primeiro repositorio
-pagina de estudos com um perfl e alguns links
+# Meu primeiro repositório
+Página de estudos com um perfil e alguns links
