@@ -1,0 +1,5 @@
+Páginas para suporte:
+
+https://pagespeed.web.dev/
+
+- É uma página que auxilia no desempenho e da dícas de alterações para sua página rodar com mais eficiência.
