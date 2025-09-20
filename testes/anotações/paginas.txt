@@ -3,3 +3,18 @@ Páginas para suporte:
 https://pagespeed.web.dev/
 
 - É uma página que auxilia no desempenho e da dícas de alterações para sua página rodar com mais eficiência.
+
+
+Página para pegar emojis:
+
+https://www.w3schools.com/html/html_emojis.asp
+
+
+Página para adicionar gradiente a bacgrounds:
+
+https://cssgradient.io/
+
+
+Página para fontes:
+
+https://fonts.google.com/?hl=pt-br&preview.text=Deleon%20Alves%0AP%C3%A1gina%20de%20apresenta%C3%A7%C3%A3o%20e%20direcionamentos
